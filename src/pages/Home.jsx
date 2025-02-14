@@ -77,7 +77,7 @@ const Home = () => {
       <section
         className="hero-section text-center py-5 d-flex align-items-center justify-content-center container-fluid"
         style={{
-          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('./src/assets/bg1.jpg')`,
+          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('./bg1.jpg')`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           height: "80vh",
@@ -128,7 +128,7 @@ const Home = () => {
                 }}
               >
                 <img
-                  src="./src/assets/fas.jpg"
+                  src="./fas.jpg"
                   className="card-img-top"
                   alt="Fashion"
                   style={{ height: "200px", objectFit: "cover" }}
@@ -158,7 +158,7 @@ const Home = () => {
                 }}
               >
                 <img
-                  src="./src/assets/elec.jpg"
+                  src="./elec.jpg"
                   className="card-img-top"
                   alt="Electronics"
                   style={{ height: "200px", objectFit: "cover" }}
@@ -188,7 +188,7 @@ const Home = () => {
                 }}
               >
                 <img
-                  src="./src/assets/jew.jpg"
+                  src="./jew.jpg"
                   className="card-img-top"
                   alt="Jewellery"
                   style={{ height: "200px", objectFit: "cover" }}

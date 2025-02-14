@@ -29,7 +29,7 @@ const Navbar = () => {
             }}
           >
             <img
-              src="./src/assets/logo.png"
+              src="./logo.png"
               alt="logo"
               className="rounded-pill"
               style={{ width: '40px', height: '40px', marginRight: '4px' }}
